@@ -1,0 +1,23 @@
+[33mcommit b7b67a6aa948a98f216424256ea2ac534a5c77fc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Nikita <shpakov.nikita@gmail.com>
+Date:   Thu Sep 24 23:20:16 2020 +0300
+
+    Добавили жирность заголовку
+
+[33mcommit e2b98b8f7ca397c2cf68e712a7e3fd242352e32e[m
+Author: Nikita <shpakov.nikita@gmail.com>
+Date:   Thu Sep 24 23:17:14 2020 +0300
+
+    Добавили заголовок h2 и приписали стили для h1
+
+[33mcommit efd5130bfdc4dc7c15d843133330c25bebd9aada[m
+Author: Nikita <shpakov.nikita@gmail.com>
+Date:   Thu Sep 24 23:00:11 2020 +0300
+
+    Добавили заголовок
+
+[33mcommit c83235c7ea7885a9eb99a25c2ae88d8de82ee652[m
+Author: Nikita <shpakov.nikita@gmail.com>
+Date:   Thu Sep 24 22:58:39 2020 +0300
+
+    start project
